@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Computer Science student at Hunter College in NY <img src="https://media.giphy.com/media/FjGEQSybauJqM/giphy.gif" width="40">
+I am a student at Hunter College in NY <img src="https://media.giphy.com/media/FjGEQSybauJqM/giphy.gif" width="40">
 
 
 - 🔭 I’m currently working on Break Through Tech's AI Studio program.
